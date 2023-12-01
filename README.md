@@ -1,6 +1,6 @@
 # Task
 
-## PlusW-Cirlce Advance IT Training
+## PlusW-Circle Advance IT Training
 
 ### Automate Github Commands by Bash Script
 
